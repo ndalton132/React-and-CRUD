@@ -1,0 +1,17 @@
+.todo{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100px;
+}
+.input-box{
+  border-color: blue;
+  left: 35px;
+}
+
+*{
+  font-family: 'Sora', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
